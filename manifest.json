@@ -1,0 +1,25 @@
+{
+  "short_name": "Input Challenge",
+  "name": "React Input Challenge",
+  "icons": [
+    {
+      "src": "PizzaBoy.jpg",
+      "sizes": "2048x2048",
+      "type": "image/jpg"
+    },
+    {
+      "src": "PizzaBoy-192",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "PizzaBoy-512",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
