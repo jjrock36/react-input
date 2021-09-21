@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-input/static/css/main.af5f1abb.chunk.css",
-    "main.js": "/react-input/static/js/main.c5e376b1.chunk.js",
-    "main.js.map": "/react-input/static/js/main.c5e376b1.chunk.js.map",
-    "runtime-main.js": "/react-input/static/js/runtime-main.b67eac50.js",
-    "runtime-main.js.map": "/react-input/static/js/runtime-main.b67eac50.js.map",
-    "static/js/2.745e34c2.chunk.js": "/react-input/static/js/2.745e34c2.chunk.js",
-    "static/js/2.745e34c2.chunk.js.map": "/react-input/static/js/2.745e34c2.chunk.js.map",
-    "static/js/3.56ef7c43.chunk.js": "/react-input/static/js/3.56ef7c43.chunk.js",
-    "static/js/3.56ef7c43.chunk.js.map": "/react-input/static/js/3.56ef7c43.chunk.js.map",
-    "index.html": "/react-input/index.html",
-    "static/css/main.af5f1abb.chunk.css.map": "/react-input/static/css/main.af5f1abb.chunk.css.map",
-    "static/js/2.745e34c2.chunk.js.LICENSE.txt": "/react-input/static/js/2.745e34c2.chunk.js.LICENSE.txt"
+    "main.css": "/react-input-challenge/static/css/main.af5f1abb.chunk.css",
+    "main.js": "/react-input-challenge/static/js/main.c5e376b1.chunk.js",
+    "main.js.map": "/react-input-challenge/static/js/main.c5e376b1.chunk.js.map",
+    "runtime-main.js": "/react-input-challenge/static/js/runtime-main.8f9e063b.js",
+    "runtime-main.js.map": "/react-input-challenge/static/js/runtime-main.8f9e063b.js.map",
+    "static/js/2.745e34c2.chunk.js": "/react-input-challenge/static/js/2.745e34c2.chunk.js",
+    "static/js/2.745e34c2.chunk.js.map": "/react-input-challenge/static/js/2.745e34c2.chunk.js.map",
+    "static/js/3.56ef7c43.chunk.js": "/react-input-challenge/static/js/3.56ef7c43.chunk.js",
+    "static/js/3.56ef7c43.chunk.js.map": "/react-input-challenge/static/js/3.56ef7c43.chunk.js.map",
+    "index.html": "/react-input-challenge/index.html",
+    "static/css/main.af5f1abb.chunk.css.map": "/react-input-challenge/static/css/main.af5f1abb.chunk.css.map",
+    "static/js/2.745e34c2.chunk.js.LICENSE.txt": "/react-input-challenge/static/js/2.745e34c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b67eac50.js",
+    "static/js/runtime-main.8f9e063b.js",
     "static/js/2.745e34c2.chunk.js",
     "static/css/main.af5f1abb.chunk.css",
     "static/js/main.c5e376b1.chunk.js"
